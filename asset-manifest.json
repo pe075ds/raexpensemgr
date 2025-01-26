@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raexpensemgr%20/static/css/main.fc821aee.css",
+    "main.js": "/raexpensemgr%20/static/js/main.018bdd5d.js",
+    "static/js/787.e63f318b.chunk.js": "/raexpensemgr%20/static/js/787.e63f318b.chunk.js",
+    "index.html": "/raexpensemgr%20/index.html",
+    "main.fc821aee.css.map": "/raexpensemgr%20/static/css/main.fc821aee.css.map",
+    "main.018bdd5d.js.map": "/raexpensemgr%20/static/js/main.018bdd5d.js.map",
+    "787.e63f318b.chunk.js.map": "/raexpensemgr%20/static/js/787.e63f318b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc821aee.css",
+    "static/js/main.018bdd5d.js"
+  ]
+}
